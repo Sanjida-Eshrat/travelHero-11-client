@@ -2,7 +2,7 @@
 
 This website is suitable for a tourism agency to connect with interested people.
 
-[Live site] (https://tourism-website-2.web.app/)
+[Live site](https://tourism-website-2.web.app/)
 
 This website includes:
 - Information about the agency
